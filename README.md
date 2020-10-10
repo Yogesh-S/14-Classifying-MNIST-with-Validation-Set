@@ -5,10 +5,9 @@ In this notebook, we use two different approaches to predict hand written digits
 > * Training Model with Validation Data  
 
 There are few advantages of using Validation Dataset while training Neural nets,  
- > * Avoid Overfitting - Validation data will accompany in tuning the hyperparameter (no. of epochs) required to train the model. Validation dataset will basically help us know where to stop the model training as shown in figure below.   
+ > * Avoid Overfitting - Validation data will accompany in tuning the hyperparameter (no. of epochs) required to train the model. Validation dataset will basically help us know where to stop the model training as shown in figure below.
  
-
-![alt text](https://github.com/Yogesh-S/14-Classifying-MNIST-with-Validation-Set/blob/master/Overfitting.png?raw=true)
+![alt text](https://github.com/Yogesh-S/14-Classifying-MNIST-with-Validation-Set/blob/main/Overfitting.JPG?raw=true)
 
 > * Choosing between multiple NN architecures
 
